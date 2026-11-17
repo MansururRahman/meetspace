@@ -31,9 +31,9 @@ To use a different Calendly event for each topic, set the URLs in `EVENT_URLS`. 
 
 ```js
 const EVENT_URLS = {
-  "AI & LLM Strategy": "https://calendly.com/your-name/ai-strategy",
-  "Software Architecture": "https://calendly.com/your-name/architecture",
-  "Enterprise Advisory": "https://calendly.com/your-name/advisory"
+  "AI & LLM Strategy": "https://calendly.com/mansurdony/30min",
+  "Software Architecture": "https://calendly.com/mansurdony/60min",
+  "Enterprise Advisory": "https://calendly.com/mansurdony/60min"
 };
 ```
 
